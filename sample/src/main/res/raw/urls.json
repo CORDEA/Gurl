@@ -1,0 +1,87 @@
+[
+  {
+    "name": "DRAGON_SERVER",
+    "urls": [
+      {
+        "flavor": "prod",
+        "url": "http://prod.localhost"
+      },
+      {
+        "flavor": "staging",
+        "url": "http://staging.localhost"
+      },
+      {
+        "flavor": "develop",
+        "url": "http://dev.localhost"
+      }
+    ]
+  },
+  {
+    "name": "MERMAID_SERVER",
+    "urls": [
+      {
+        "flavor": "prod",
+        "url": "http://prod.localhost"
+      },
+      {
+        "flavor": "staging",
+        "url": "http://staging.localhost"
+      },
+      {
+        "flavor": "develop",
+        "url": "http://dev.localhost"
+      }
+    ]
+  },
+  {
+    "name": "VAMPIRE_SERVER",
+    "urls": [
+      {
+        "flavor": "prod",
+        "url": "http://prod.localhost"
+      },
+      {
+        "flavor": "staging",
+        "url": "http://staging.localhost"
+      },
+      {
+        "flavor": "develop",
+        "url": "http://dev.localhost"
+      }
+    ]
+  },
+  {
+    "name": "UNICORN_SERVER",
+    "urls": [
+      {
+        "flavor": "prod",
+        "url": "http://prod.localhost"
+      },
+      {
+        "flavor": "staging",
+        "url": "http://staging.localhost"
+      },
+      {
+        "flavor": "develop",
+        "url": "http://dev.localhost"
+      }
+    ]
+  },
+  {
+    "name": "PEGASUS_SERVER",
+    "urls": [
+      {
+        "flavor": "prod",
+        "url": "http://prod.localhost"
+      },
+      {
+        "flavor": "staging",
+        "url": "http://staging.localhost"
+      },
+      {
+        "flavor": "develop",
+        "url": "http://dev.localhost"
+      }
+    ]
+  }
+]
