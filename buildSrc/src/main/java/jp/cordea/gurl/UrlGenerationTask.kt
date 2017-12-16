@@ -12,7 +12,7 @@ import java.io.File
 import java.io.FileInputStream
 import java.io.InputStreamReader
 
-open class UrlGenerateTask : DefaultTask() {
+open class UrlGenerationTask : DefaultTask() {
 
     lateinit var jsonPath: String
 
